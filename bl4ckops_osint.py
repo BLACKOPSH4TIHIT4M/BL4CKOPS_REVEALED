@@ -1031,7 +1031,7 @@ def menu():
  print(Fore.GREEN + "─▐██████▄──▀██▀──▄██████▌                                                     ")
  print(Fore.GREEN + "─██████████▄▄▄▄██████████            ==============================           ")
  print(Fore.GREEN + "▐███████─▐██████▌─███████▌                                                    ")
- print(Fore.GREEN + "███████▌──▐████▌──▐███████             .: By Anezatra Katedram :.             ")
+ print(Fore.GREEN + "███████▌──▐████▌──▐███████             .: By H4TIHIT4M :.                 ")
  print(Fore.GREEN + "                           ")
  print(Fore.GREEN + "         BL4CKOPS         ")
  print(Fore.GREEN + "                           ")
